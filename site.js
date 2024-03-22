@@ -36,7 +36,7 @@ const vue_app = Vue.createApp({
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
              title : "IMDB + Charlie Scotts Top 8 Movies",
              owner : "Charlie Scott",
-             github : "https://charliescott4.github.io/Scott---P3/",
+             github : "https://github.com/CharlieScott4/Scott---P3",
             
       }
     },
