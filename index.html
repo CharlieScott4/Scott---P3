@@ -48,7 +48,7 @@
                     <p class="score"><i class="bi bi-star" aria-hidden="true"></i> {{ movie.iscore }} </p>
                     <p class="runtime">Runtime: {{ movie.runtime }}</p>
                     <p class="released">Released: {{ movie.released[0] }} | Rated: {{ movie.rating }}</p>
-                    <p class="websites">Websites: <a :href="movies[0].imdb"> imdb </a> | <a :href="movies[0].website">website</a></p>
+                    <p class="websites">Websites: <a :href="movie.imdb"> imdb </a> | <a :href="movie.website">website</a></p>
 
                     <div class="social">
                         <p class="likes"><i class="bi bi-hand-thumbs-up" aria-hidden="true"></i> {{ movie.likes }}</p>
