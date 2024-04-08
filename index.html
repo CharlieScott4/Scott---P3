@@ -41,7 +41,7 @@
 				
 	            <div class="thumbnail">
 
-					<img class="poster img-fluid" :src="movie.posters[0]" alt="Movie Poster" />
+					<img class="poster img-fluid" :src="movie.posters[movie.posterindex]" alt="Movie Poster" @click="posterClick(index)"/>
 					<div class="imageInfo">{{ index + 1 }}</div>
 
                     <p class="title">{{ movie.title }} ({{ movie.country }})</p>
@@ -59,7 +59,7 @@
 
         </div>
     </div>
-	</div>
+
 
     		<div class="footer">
         		<div class="container">
@@ -68,6 +68,7 @@
             	</a>
         	</div>
    		</div>
+		</div>
 	</div>
 
   	<!-- This load the Vue.js code -->
