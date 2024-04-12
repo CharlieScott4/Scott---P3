@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Spider-Man: Into the Spider-Verse",
+            "iscore": 8.4,
+            "rating": "PG",
+            "runtime": 116,
+            "released": [2018, 12, 14],
+            "country": "USA",
+            "posters": ["img/ss.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.imdb.com/title/tt4633694/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "The Batman",
+            "iscore": 7.8,
+            "rating": "PG-13",
+            "runtime": 176,
+            "released": [2022, 3, 4],
+            "country": "USA",
+            "posters": ["img/batman.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.imdb.com/title/tt1877830/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Toy Story 2",
+            "iscore": 7.9,
+            "rating": "G",
+            "runtime": 92,
+            "released": [1994, 11, 24],
+            "country": "USA",
+            "posters": ["img/toy.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.imdb.com/title/tt0120363/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
       }
 ]

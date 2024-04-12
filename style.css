@@ -33,6 +33,7 @@ body {
     background-color:#dddddd;
 }
 .thumbnail img {
+    max-height: 764px;
     margin-top: 10px;
     margin-bottom: 30px;
     padding: 5px;
